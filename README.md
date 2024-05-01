@@ -1,4 +1,4 @@
-# Codsoft-Task-2
+# GUI calculator using the tkinter library.
 This Python code creates a simple calculator GUI using the tkinter library. The calculator window features a clean and intuitive design with buttons for digits, arithmetic operations, and functions. Here's a brief description of the code:
 
 •The code initializes a graphical user interface (GUI) using tkinter and sets up the main window of the calculator.
